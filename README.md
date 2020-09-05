@@ -10,3 +10,11 @@ Q1 You all are pilots, you want to land a plane safely, so altitude required for
 Q2 Using for loop please print all the prime numbers between 1-200 using FOR LOOP AND RANGE function.
 Output-
 2,3,5,7....
+
+THIRD ASSIGNMENT
+
+Q1 Print the first ArmStrong number in the range of 1042000 to 702648265 and exit the loop as soon as you encounter the first ArmStrong number.
+Use while loop
+
+Output-
+The first ArmStrong number is-------
