@@ -1,0 +1,41 @@
+       QUESTION 1
+ 
+ check_list=[1,1,5,7,9,6,4]
+sub_list=[1,1,5]
+print("original list :" +str(check_list))
+print("original list :" +str(sub_list))
+flag=0
+if (set(sub_list).issubset(set(check_list))):
+ flag=1
+if(flag):
+    print("its a match.")
+else:
+    print("its gone.")
+      
+      
+      QUESTION 2
+
+def isPrime(x):
+    for n in range(2,x):
+        if x%n==0:
+            return False
+        else:
+            return True
+
+    fltrObj=filter(isPrime, range(2500))
+    print ('Prime numbers between 1-2500:', list(fltrObj))
+
+
+        QUESTION 3
+
+# Python code to convert all string 
+# from uppercase to lowercase. 
+  
+# Initialisation 
+input = ["hey this is sai","I am in mumbai",] 
+  
+# Converting 
+lst = [x.upper() for x in input] 
+  
+# printing output 
+print(lst)
