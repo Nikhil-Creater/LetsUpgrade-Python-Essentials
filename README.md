@@ -1,7 +1,9 @@
 # LetsUpgrade-Python-Essentials                                                                                                                                                                                                                                                                                                                                              
 FIRST ASSIGNMENT
                                                                                                                                                                            
-List and its defalut functions , Dictionary and its defalut functions , String and its defalut functions , Sets and its defalut functions , Tuple and its defalut functions.
+Q1 List and its defalut functions , Dictionary and its defalut functions , String and its defalut functions , Sets and its defalut functions , Tuple and its defalut functions.
+
+
 
 SECOND ASSIGNMENT
 
@@ -11,6 +13,8 @@ Q2 Using for loop please print all the prime numbers between 1-200 using FOR LOO
 Output-
 2,3,5,7....
 
+
+
 THIRD ASSIGNMENT
 
 Q1 Print the first ArmStrong number in the range of 1042000 to 702648265 and exit the loop as soon as you encounter the first ArmStrong number.
@@ -18,3 +22,53 @@ Use while loop
 
 Output-
 The first ArmStrong number is-------
+
+
+
+FOURTH ASSIGNMENT
+
+Q1 Write a program to identify sub list[1,1,5] is there in the given list in the same order , if yes print" it is a match" if no then print "it is gone" in function.
+
+EXAMPLE-
+Listy=[1,5,6,4,1,2,3,5] - It is a match
+Listy=[1,5,6,5,1,2,3,6] - It is gone
+
+Q2 Make a function for prime numbers and use filter to filter out all the prime numbers from 1 - 2500
+
+Q3 Make a lambda fuction for capitalizing the whole sentence passed using arguments. And map all the sentences in the list, with the lambda funtions
+
+("hey this is sai", I am from mumbai",.....)
+OUTPUT-
+("HEY THIS IS SAI", I AM FROM MUMBAI",....)
+
+
+
+FIFTH ASSIGNMENT
+
+Q1 For a challenge, create a bank account class that has two attributes:
+
+*owner name
+
+*Balance
+
+And Two Methods
+
+*deposit
+
+*withdraw
+As an added requirement, withdrawals may not exceed the available balance.
+
+Instantiate youe class, make several deposits and withdrawals, and test to make sure the account cant be overdrawn.
+
+
+Q2 For this challenge, create a cone class that has two attributes:
+
+*R= Radius
+*H= Height
+
+And two methods:
+
+*Volume= π * r2 = (h/3)
+*Surface Area: base: π * r2 , side: π * r * √(r2 + h2)
+
+Make only one class with functions, as in where required import Math.
