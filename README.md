@@ -99,3 +99,6 @@ Q2 For this challenge you need to develop a python program to open a file in rea
 
 DAY 9 ASSIGNMENT
 
+Q1 Write a python function for finding is a given number prime or not and do unit testing on it using PyLint and Unittest library.
+
+Q2 Make a small generator program for returning armstrong number in between 1 - 1000 in a generator object.
