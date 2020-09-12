@@ -1,4 +1,10 @@
 # LetsUpgrade-Python-Essentials                                                                                                                                                                                                                                                                                                                                              
+DAY 1 ASSIGNMENT
+
+NO ASSIGNMENT
+
+
+
 DAY 2 ASSIGNMENT
                                                                                                                                                                            
 Q1 List and its defalut functions , Dictionary and its defalut functions , String and its defalut functions , Sets and its defalut functions , Tuple and its defalut functions.
@@ -72,3 +78,24 @@ And two methods:
 *Surface Area: base: π * r2 , side: π * r * √(r2 + h2)
 
 Make only one class with functions, as in where required import Math.
+
+
+
+DAY 7 ASSIGNMENT
+
+NO ASSIGNMENT
+
+
+
+DAY 8 ASSIGNMENT
+
+Q1 Write a decorator function for your taking input for you any kind of function you want to build.
+
+EXAMPLE: You make a fibonacci series function, in which your input range is been defined by the decorator program input.
+
+Q2 For this challenge you need to develop a python program to open a file in read only mode and try writing something to it and handle the subsequent erorrs using exception handling.
+
+
+
+DAY 9 ASSIGNMENT
+
